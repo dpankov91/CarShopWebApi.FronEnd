@@ -1,0 +1,46 @@
+<form [formGroup]="carForm" (ngSubmit)="save()">
+
+  <label class="field field_v1">
+    <input class="field__input" placeholder="e.g. BMW, Audi.." type="text" formControlName="brand">
+    <span class="field__label-wrap">
+      <span class="field__label">Brand</span>
+    </span>
+  </label>
+  <br>
+
+  <label class="field field_v1">
+    <input class="field__input" placeholder="e.g. Coupe, Sedan.." type="text" formControlName="carType">
+    <span class="field__label-wrap">
+      <span class="field__label">Type</span>
+    </span>
+  </label>
+  <br>
+
+  <label class="field field_v1">
+    <input class="field__input" placeholder="e.g. Red, White.." type="text" formControlName="color">
+    <span class="field__label-wrap">
+      <span class="field__label">Color</span>
+    </span>
+  </label>
+<br>
+
+  <label class="field field_v1">
+    <input class="field__input" placeholder="e.g. 15000, 16000.." type="text" formControlName="price">
+    <span class="field__label-wrap">
+      <span class="field__label">Price</span>
+    </span>
+  </label>
+  <br>
+
+  <label class="field field_v1">
+    <input class="field__input" placeholder="e.g. 2019, 2015.." type="text" formControlName="year">
+    <span class="field__label-wrap">
+      <span class="field__label">Year</span>
+    </span>
+  </label>
+  <br>
+
+  <br>
+  <button type="submit">Save</button>
+  <button5 routerLink="/cars">Back</button5>
+</form>

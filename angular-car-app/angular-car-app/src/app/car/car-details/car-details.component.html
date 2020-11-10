@@ -1,0 +1,11 @@
+<br>
+<button5 routerLink="/cars">Back</button5>
+<h1>Car Details</h1>
+<div *ngIf ="car">
+  <h3>ID:   {{car.id}}</h3>
+  <h2>{{car.brand}} <br> {{car.carType}}</h2>
+  <h3>{{car.color}}</h3>
+</div>
+<div *ngIf ="!car">
+  <h2>Car not found</h2>
+</div>

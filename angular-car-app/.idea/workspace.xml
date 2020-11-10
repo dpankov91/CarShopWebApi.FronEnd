@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72ec322c-c937-4769-977e-8c5593e55b75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jT7vC5bh4tTHetjeK0fqP80pNV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\dpank\Documents\WebStrormProjects\angular-car-app\angular-car-app\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72ec322c-c937-4769-977e-8c5593e55b75" name="Default Changelist" comment="" />
+      <created>1603816456093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603816456093</updated>
+      <workItem from="1603816457151" duration="2926000" />
+      <workItem from="1603819397112" duration="3638000" />
+      <workItem from="1603830097357" duration="1949000" />
+      <workItem from="1603832317850" duration="1087000" />
+      <workItem from="1603884992822" duration="7102000" />
+      <workItem from="1603903556572" duration="575000" />
+      <workItem from="1603904139971" duration="106000" />
+      <workItem from="1603904253961" duration="852000" />
+      <workItem from="1603965523607" duration="3719000" />
+      <workItem from="1603970937304" duration="4096000" />
+      <workItem from="1603984627707" duration="2259000" />
+      <workItem from="1603987040619" duration="326000" />
+      <workItem from="1604045391697" duration="983000" />
+      <workItem from="1604046388831" duration="671000" />
+      <workItem from="1604047071009" duration="1315000" />
+      <workItem from="1604402953151" duration="2534000" />
+      <workItem from="1604410447194" duration="1076000" />
+      <workItem from="1604411533926" duration="775000" />
+      <workItem from="1604412320515" duration="290000" />
+      <workItem from="1604412620447" duration="813000" />
+      <workItem from="1604413445242" duration="2143000" />
+      <workItem from="1604490758944" duration="3469000" />
+      <workItem from="1604591338462" duration="2361000" />
+      <workItem from="1604593721430" duration="4966000" />
+      <workItem from="1604599050760" duration="2794000" />
+      <workItem from="1604606860536" duration="2293000" />
+      <workItem from="1604609232010" duration="3332000" />
+      <workItem from="1604653314755" duration="1933000" />
+      <workItem from="1604658757742" duration="1231000" />
+      <workItem from="1604660003733" duration="13995000" />
+      <workItem from="1604741663316" duration="10118000" />
+      <workItem from="1604834601391" duration="2021000" />
+      <workItem from="1604950304029" duration="608000" />
+      <workItem from="1604997452517" duration="647000" />
+      <workItem from="1605001377370" duration="9447000" />
+      <workItem from="1605018970939" duration="1129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="310" key="Github.ShareDialog" timestamp="1605019756165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="631" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1605019756165" />
+  </component>
+</project>

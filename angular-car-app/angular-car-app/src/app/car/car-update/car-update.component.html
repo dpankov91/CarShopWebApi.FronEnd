@@ -1,0 +1,28 @@
+<br>
+<form [formGroup]="carForm" (ngSubmit)="save()">
+  <label class="field field_v1">
+    <input class="field__input" placeholder="e.g. BMW, Audi.." formControlName="brand">
+    <span class="field__label-wrap">
+      <span class="field__label">Brand</span>
+    </span>
+  </label>
+  <br>
+  <label class="field field_v1">
+    <input class="field__input" placeholder="e.g. Sedan, Coupe.." formControlName="carType">
+    <span class="field__label-wrap">
+      <span class="field__label">Type</span>
+    </span>
+  </label>
+  <br>
+  <label class="field field_v1">
+  <input class="field__input" placeholder="e.g. Red, White.." formControlName="color">
+  <span class="field__label-wrap">
+      <span class="field__label">Color</span>
+    </span>
+</label>
+  <br>
+
+  <button type="submit">Save</button>
+  <button routerLink="/cars">Back</button>
+</form>
+
